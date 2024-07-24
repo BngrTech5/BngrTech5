@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rakshita Bhatnagar</h1>
-<h3 align="center">Web Developer 👨‍💻 , Coder 🥷 & Learner 🦸‍♀️ from India 🇮🇳 🎓 Currently I am pursuing my bachelor's degree from KIIT-DU Bhubaneshwar. I love to learn new technologies and frameworks. I’m currently working on front-end development.</h3>
+<h1 align="center">Hi! I'm Rakshita Bhatnagar</h1>
+<h3 align="center">Web Developer, Coder & Learner from India 🇮🇳 Currently I am pursuing my bachelor's degree from KIIT-DU Bhubaneshwar. I love to learn new technologies and frameworks. I’m currently working on front-end development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
