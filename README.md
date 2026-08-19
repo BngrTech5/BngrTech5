@@ -1,11 +1,67 @@
-<h1 align="center">Hi! I'm Rakshita Bhatnagar</h1>
-<h3 align="center">Web Developer, Coder & Learner from India 🇮🇳 Currently I am pursuing my bachelor's degree from KIIT-DU Bhubaneshwar. I love to learn new technologies and frameworks. I’m currently working on front-end development.</h3>
+<h1 align="center">Hi, I'm Rakshita Bhatnagar</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakshita-bhatnagar-27a7ba261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshita-bhatnagar-27a7ba261/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakshitabngr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshitabngr/" height="30" width="40" /></a>
+<p align="center">
+  <strong>Oracle Analyst | ERP | SQL & PL/SQL | Cloud</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  I work with Oracle technologies across ERP, reporting, databases and cloud applications.
+  <br/>
+  Currently exploring enterprise integrations, AI-driven solutions and Oracle Cloud technologies.
+</p>
+
+---
+
+### About Me
+
+I'm an **Oracle Analyst** working in enterprise technology, with a focus on **Oracle ERP, SQL/PLSQL and reporting solutions**.
+
+My work and learning span:
+
+* Oracle Fusion Cloud ERP & Oracle E-Business Suite
+* SQL & PL/SQL
+* Oracle BI Publisher & reporting
+* Oracle APEX
+* Oracle Integration Cloud (OIC)
+* Oracle Cloud Infrastructure (OCI)
+* AI agents, MCP and enterprise AI
+
+I enjoy understanding how business processes translate into **data, applications and technical solutions**.
+
+### What I'm Working On
+
+* Building and improving Oracle-based applications
+* Developing SQL and PL/SQL solutions
+* Working with ERP reporting and data models
+* Exploring OIC, OCI and MCP
+* Learning how AI can be applied to enterprise workflows
+
+### Projects
+
+Here are some of the things I've built and worked on independently:
+
+* **Expense Splitter** — Oracle APEX application for managing group expenses, payments and balances.
+* **Oracle SQL & PL/SQL Projects** — Database logic, reporting queries, procedures and functions.
+* **Enterprise AI Experiments** — Exploring AI agents, document processing, MCP and Oracle integrations.
+
+### Tech Stack
+
+**Oracle:**
+Oracle Fusion ERP · Oracle EBS · Oracle APEX · BI Publisher · OIC · OCI
+
+**Development:**
+SQL · PL/SQL · Python · JavaScript · HTML · CSS
+
+**Currently Learning:**
+Enterprise AI · MCP · AI Agents · Oracle 26ai
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rakshita-bhatnagar-27a7ba261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/rakshitabngr/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
